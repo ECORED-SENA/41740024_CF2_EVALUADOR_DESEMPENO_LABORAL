@@ -17,7 +17,7 @@
     "id": 2,
     "icon": "fa fa-file-text-o",
     "slug": "sistema_tipo_de_evaluacion_de_la_CNSC",
-    "title": "1. Sistema tipo de evaluación de la CNSC",
+    "title": "1. Sistema Tipo de Evaluación de la CNSC",
     "breadcrumb": ["Inicio","tema 1"],
     "path": "pages/1-tema.html",    
     "submenu": [
